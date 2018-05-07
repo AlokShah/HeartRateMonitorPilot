@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Mon May 07 12:13:56 CDT 2018
+0.baseType=DIRECTORY
+0.base=/Users/alokshah/AndroidStudioProjects/HeartRateMonitorPilot/Application/build/intermediates/transforms/dexMerger/debug/38
+0.path=classes.dex
+0.set=DEX
+count=1

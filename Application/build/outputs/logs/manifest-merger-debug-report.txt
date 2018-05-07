@@ -1,0 +1,231 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/alokshah/AndroidStudioProjects/HeartRateMonitorPilot/Application/src/main/AndroidManifest.xml:2:1-54:12
+INJECTED from /Users/alokshah/AndroidStudioProjects/HeartRateMonitorPilot/Application/src/main/AndroidManifest.xml:2:1-54:12
+INJECTED from /Users/alokshah/AndroidStudioProjects/HeartRateMonitorPilot/Application/src/main/AndroidManifest.xml:2:1-54:12
+MERGED from [com.android.support:support-v13:26.1.0] /Users/alokshah/.gradle/caches/transforms-1/files-1.1/support-v13-26.1.0.aar/1d0f46cb6e2f7ac1f8a40e5406eeafe0/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/alokshah/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/f3a5ff5d87fba61f0054cca22580afad/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-v4:26.1.0] /Users/alokshah/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/b9e6811ade3be3ca52da5500a31c1a80/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:cardview-v7:26.1.0] /Users/alokshah/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.1.0.aar/546c2a5a578fc541f9f85e16c8a5d658/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/alokshah/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/821207299443f6866164f7785e305f08/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.volley:volley:1.0.0] /Users/alokshah/.gradle/caches/transforms-1/files-1.1/volley-1.0.0.aar/bb584ab22be3eb0e72410de20aa89cc0/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/alokshah/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/d17c00cc35b78bf317ed6734e49af8b0/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/alokshah/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/159b8c8a288b6f1812613989cea72659/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/alokshah/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/0ac98183bb5c288f62d0423a9091b4b8/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/alokshah/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/5f97c90eb8cab521183953110ddccac8/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/alokshah/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/3fdc5a2217e9380312379e627c3355b8/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/alokshah/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/54bbf4e249b23046ea0a59379a2f81a4/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-compat:26.1.0] /Users/alokshah/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/6f34ec4dfb62d5497d0a967ece4db05a/AndroidManifest.xml:17:1-31:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/alokshah/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/276e00e6df6900026868343a9df6aac3/AndroidManifest.xml:17:1-30:12
+INJECTED from /Users/alokshah/AndroidStudioProjects/HeartRateMonitorPilot/Application/src/main/AndroidManifest.xml:2:1-54:12
+INJECTED from /Users/alokshah/AndroidStudioProjects/HeartRateMonitorPilot/Application/src/main/AndroidManifest.xml:2:1-54:12
+	package
+		ADDED from /Users/alokshah/AndroidStudioProjects/HeartRateMonitorPilot/Application/src/main/AndroidManifest.xml:3:5-50
+	android:versionName
+		ADDED from /Users/alokshah/AndroidStudioProjects/HeartRateMonitorPilot/Application/src/main/AndroidManifest.xml:5:5-30
+		INJECTED from /Users/alokshah/AndroidStudioProjects/HeartRateMonitorPilot/Application/src/main/AndroidManifest.xml
+		INJECTED from /Users/alokshah/AndroidStudioProjects/HeartRateMonitorPilot/Application/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/alokshah/AndroidStudioProjects/HeartRateMonitorPilot/Application/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from /Users/alokshah/AndroidStudioProjects/HeartRateMonitorPilot/Application/src/main/AndroidManifest.xml:4:5-28
+		INJECTED from /Users/alokshah/AndroidStudioProjects/HeartRateMonitorPilot/Application/src/main/AndroidManifest.xml
+		INJECTED from /Users/alokshah/AndroidStudioProjects/HeartRateMonitorPilot/Application/src/main/AndroidManifest.xml
+uses-feature#android.hardware.bluetooth_le
+ADDED from /Users/alokshah/AndroidStudioProjects/HeartRateMonitorPilot/Application/src/main/AndroidManifest.xml:7:5-9:35
+	android:required
+		ADDED from /Users/alokshah/AndroidStudioProjects/HeartRateMonitorPilot/Application/src/main/AndroidManifest.xml:9:9-32
+	android:name
+		ADDED from /Users/alokshah/AndroidStudioProjects/HeartRateMonitorPilot/Application/src/main/AndroidManifest.xml:8:9-53
+uses-permission#android.permission.BLUETOOTH
+ADDED from /Users/alokshah/AndroidStudioProjects/HeartRateMonitorPilot/Application/src/main/AndroidManifest.xml:11:5-68
+	android:name
+		ADDED from /Users/alokshah/AndroidStudioProjects/HeartRateMonitorPilot/Application/src/main/AndroidManifest.xml:11:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from /Users/alokshah/AndroidStudioProjects/HeartRateMonitorPilot/Application/src/main/AndroidManifest.xml:12:5-74
+	android:name
+		ADDED from /Users/alokshah/AndroidStudioProjects/HeartRateMonitorPilot/Application/src/main/AndroidManifest.xml:12:22-71
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/alokshah/AndroidStudioProjects/HeartRateMonitorPilot/Application/src/main/AndroidManifest.xml:13:5-79
+	android:name
+		ADDED from /Users/alokshah/AndroidStudioProjects/HeartRateMonitorPilot/Application/src/main/AndroidManifest.xml:13:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /Users/alokshah/AndroidStudioProjects/HeartRateMonitorPilot/Application/src/main/AndroidManifest.xml:14:5-81
+	android:name
+		ADDED from /Users/alokshah/AndroidStudioProjects/HeartRateMonitorPilot/Application/src/main/AndroidManifest.xml:14:22-78
+uses-permission#android.permission.VIBRATE
+ADDED from /Users/alokshah/AndroidStudioProjects/HeartRateMonitorPilot/Application/src/main/AndroidManifest.xml:15:5-66
+	android:name
+		ADDED from /Users/alokshah/AndroidStudioProjects/HeartRateMonitorPilot/Application/src/main/AndroidManifest.xml:15:22-63
+uses-permission#android.permission.INTERNET
+ADDED from /Users/alokshah/AndroidStudioProjects/HeartRateMonitorPilot/Application/src/main/AndroidManifest.xml:16:5-67
+	android:name
+		ADDED from /Users/alokshah/AndroidStudioProjects/HeartRateMonitorPilot/Application/src/main/AndroidManifest.xml:16:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/alokshah/AndroidStudioProjects/HeartRateMonitorPilot/Application/src/main/AndroidManifest.xml:17:5-79
+	android:name
+		ADDED from /Users/alokshah/AndroidStudioProjects/HeartRateMonitorPilot/Application/src/main/AndroidManifest.xml:17:22-76
+application
+ADDED from /Users/alokshah/AndroidStudioProjects/HeartRateMonitorPilot/Application/src/main/AndroidManifest.xml:19:5-52:19
+MERGED from [com.android.support:support-v13:26.1.0] /Users/alokshah/.gradle/caches/transforms-1/files-1.1/support-v13-26.1.0.aar/1d0f46cb6e2f7ac1f8a40e5406eeafe0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v13:26.1.0] /Users/alokshah/.gradle/caches/transforms-1/files-1.1/support-v13-26.1.0.aar/1d0f46cb6e2f7ac1f8a40e5406eeafe0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/alokshah/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/f3a5ff5d87fba61f0054cca22580afad/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/alokshah/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/f3a5ff5d87fba61f0054cca22580afad/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] /Users/alokshah/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/b9e6811ade3be3ca52da5500a31c1a80/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] /Users/alokshah/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/b9e6811ade3be3ca52da5500a31c1a80/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:cardview-v7:26.1.0] /Users/alokshah/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.1.0.aar/546c2a5a578fc541f9f85e16c8a5d658/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:cardview-v7:26.1.0] /Users/alokshah/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.1.0.aar/546c2a5a578fc541f9f85e16c8a5d658/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/alokshah/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/821207299443f6866164f7785e305f08/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/alokshah/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/821207299443f6866164f7785e305f08/AndroidManifest.xml:9:5-20
+MERGED from [com.android.volley:volley:1.0.0] /Users/alokshah/.gradle/caches/transforms-1/files-1.1/volley-1.0.0.aar/bb584ab22be3eb0e72410de20aa89cc0/AndroidManifest.xml:9:5-20
+MERGED from [com.android.volley:volley:1.0.0] /Users/alokshah/.gradle/caches/transforms-1/files-1.1/volley-1.0.0.aar/bb584ab22be3eb0e72410de20aa89cc0/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/alokshah/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/d17c00cc35b78bf317ed6734e49af8b0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/alokshah/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/d17c00cc35b78bf317ed6734e49af8b0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/alokshah/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/159b8c8a288b6f1812613989cea72659/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/alokshah/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/159b8c8a288b6f1812613989cea72659/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/alokshah/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/0ac98183bb5c288f62d0423a9091b4b8/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/alokshah/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/0ac98183bb5c288f62d0423a9091b4b8/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/alokshah/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/5f97c90eb8cab521183953110ddccac8/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/alokshah/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/5f97c90eb8cab521183953110ddccac8/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/alokshah/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/3fdc5a2217e9380312379e627c3355b8/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/alokshah/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/3fdc5a2217e9380312379e627c3355b8/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/alokshah/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/54bbf4e249b23046ea0a59379a2f81a4/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/alokshah/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/54bbf4e249b23046ea0a59379a2f81a4/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-compat:26.1.0] /Users/alokshah/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/6f34ec4dfb62d5497d0a967ece4db05a/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /Users/alokshah/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/6f34ec4dfb62d5497d0a967ece4db05a/AndroidManifest.xml:25:5-29:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/alokshah/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/276e00e6df6900026868343a9df6aac3/AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/alokshah/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/276e00e6df6900026868343a9df6aac3/AndroidManifest.xml:24:5-28:19
+	android:label
+		ADDED from /Users/alokshah/AndroidStudioProjects/HeartRateMonitorPilot/Application/src/main/AndroidManifest.xml:21:9-41
+	android:icon
+		ADDED from /Users/alokshah/AndroidStudioProjects/HeartRateMonitorPilot/Application/src/main/AndroidManifest.xml:20:9-42
+	android:theme
+		ADDED from /Users/alokshah/AndroidStudioProjects/HeartRateMonitorPilot/Application/src/main/AndroidManifest.xml:22:9-56
+activity#com.example.android.bluetoothlegatt.DeviceScanActivity
+ADDED from /Users/alokshah/AndroidStudioProjects/HeartRateMonitorPilot/Application/src/main/AndroidManifest.xml:23:9-27:20
+	android:screenOrientation
+		ADDED from /Users/alokshah/AndroidStudioProjects/HeartRateMonitorPilot/Application/src/main/AndroidManifest.xml:26:13-49
+	android:label
+		ADDED from /Users/alokshah/AndroidStudioProjects/HeartRateMonitorPilot/Application/src/main/AndroidManifest.xml:25:13-45
+	android:name
+		ADDED from /Users/alokshah/AndroidStudioProjects/HeartRateMonitorPilot/Application/src/main/AndroidManifest.xml:24:13-47
+activity#com.example.android.bluetoothlegatt.DeviceControlActivity
+ADDED from /Users/alokshah/AndroidStudioProjects/HeartRateMonitorPilot/Application/src/main/AndroidManifest.xml:28:9-30:52
+	android:screenOrientation
+		ADDED from /Users/alokshah/AndroidStudioProjects/HeartRateMonitorPilot/Application/src/main/AndroidManifest.xml:30:13-49
+	android:name
+		ADDED from /Users/alokshah/AndroidStudioProjects/HeartRateMonitorPilot/Application/src/main/AndroidManifest.xml:29:13-50
+service#com.example.android.bluetoothlegatt.BluetoothLeService
+ADDED from /Users/alokshah/AndroidStudioProjects/HeartRateMonitorPilot/Application/src/main/AndroidManifest.xml:32:9-34:38
+	android:enabled
+		ADDED from /Users/alokshah/AndroidStudioProjects/HeartRateMonitorPilot/Application/src/main/AndroidManifest.xml:34:13-35
+	android:name
+		ADDED from /Users/alokshah/AndroidStudioProjects/HeartRateMonitorPilot/Application/src/main/AndroidManifest.xml:33:13-47
+activity#com.example.android.bluetoothlegatt.TrainingProgram
+ADDED from /Users/alokshah/AndroidStudioProjects/HeartRateMonitorPilot/Application/src/main/AndroidManifest.xml:36:9-39:51
+	android:screenOrientation
+		ADDED from /Users/alokshah/AndroidStudioProjects/HeartRateMonitorPilot/Application/src/main/AndroidManifest.xml:39:13-49
+	android:label
+		ADDED from /Users/alokshah/AndroidStudioProjects/HeartRateMonitorPilot/Application/src/main/AndroidManifest.xml:38:13-68
+	android:name
+		ADDED from /Users/alokshah/AndroidStudioProjects/HeartRateMonitorPilot/Application/src/main/AndroidManifest.xml:37:13-44
+activity#com.example.android.bluetoothlegatt.LoginActivity
+ADDED from /Users/alokshah/AndroidStudioProjects/HeartRateMonitorPilot/Application/src/main/AndroidManifest.xml:40:9-47:20
+	android:screenOrientation
+		ADDED from /Users/alokshah/AndroidStudioProjects/HeartRateMonitorPilot/Application/src/main/AndroidManifest.xml:42:13-49
+	android:name
+		ADDED from /Users/alokshah/AndroidStudioProjects/HeartRateMonitorPilot/Application/src/main/AndroidManifest.xml:41:13-42
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/alokshah/AndroidStudioProjects/HeartRateMonitorPilot/Application/src/main/AndroidManifest.xml:43:13-46:29
+action#android.intent.action.MAIN
+ADDED from /Users/alokshah/AndroidStudioProjects/HeartRateMonitorPilot/Application/src/main/AndroidManifest.xml:44:17-69
+	android:name
+		ADDED from /Users/alokshah/AndroidStudioProjects/HeartRateMonitorPilot/Application/src/main/AndroidManifest.xml:44:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/alokshah/AndroidStudioProjects/HeartRateMonitorPilot/Application/src/main/AndroidManifest.xml:45:17-77
+	android:name
+		ADDED from /Users/alokshah/AndroidStudioProjects/HeartRateMonitorPilot/Application/src/main/AndroidManifest.xml:45:27-74
+activity#com.example.android.bluetoothlegatt.RegistrationActivity
+ADDED from /Users/alokshah/AndroidStudioProjects/HeartRateMonitorPilot/Application/src/main/AndroidManifest.xml:48:9-51:61
+	android:screenOrientation
+		ADDED from /Users/alokshah/AndroidStudioProjects/HeartRateMonitorPilot/Application/src/main/AndroidManifest.xml:51:13-49
+	android:label
+		ADDED from /Users/alokshah/AndroidStudioProjects/HeartRateMonitorPilot/Application/src/main/AndroidManifest.xml:50:13-64
+	android:name
+		ADDED from /Users/alokshah/AndroidStudioProjects/HeartRateMonitorPilot/Application/src/main/AndroidManifest.xml:49:13-49
+uses-sdk
+INJECTED from /Users/alokshah/AndroidStudioProjects/HeartRateMonitorPilot/Application/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/alokshah/AndroidStudioProjects/HeartRateMonitorPilot/Application/src/main/AndroidManifest.xml
+INJECTED from /Users/alokshah/AndroidStudioProjects/HeartRateMonitorPilot/Application/src/main/AndroidManifest.xml
+MERGED from [com.android.support:support-v13:26.1.0] /Users/alokshah/.gradle/caches/transforms-1/files-1.1/support-v13-26.1.0.aar/1d0f46cb6e2f7ac1f8a40e5406eeafe0/AndroidManifest.xml:21:5-23:55
+MERGED from [com.android.support:support-v13:26.1.0] /Users/alokshah/.gradle/caches/transforms-1/files-1.1/support-v13-26.1.0.aar/1d0f46cb6e2f7ac1f8a40e5406eeafe0/AndroidManifest.xml:21:5-23:55
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/alokshah/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/f3a5ff5d87fba61f0054cca22580afad/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/alokshah/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/f3a5ff5d87fba61f0054cca22580afad/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:26.1.0] /Users/alokshah/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/b9e6811ade3be3ca52da5500a31c1a80/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] /Users/alokshah/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/b9e6811ade3be3ca52da5500a31c1a80/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:cardview-v7:26.1.0] /Users/alokshah/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.1.0.aar/546c2a5a578fc541f9f85e16c8a5d658/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:26.1.0] /Users/alokshah/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.1.0.aar/546c2a5a578fc541f9f85e16c8a5d658/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/alokshah/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/821207299443f6866164f7785e305f08/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/alokshah/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/821207299443f6866164f7785e305f08/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.volley:volley:1.0.0] /Users/alokshah/.gradle/caches/transforms-1/files-1.1/volley-1.0.0.aar/bb584ab22be3eb0e72410de20aa89cc0/AndroidManifest.xml:7:5-43
+MERGED from [com.android.volley:volley:1.0.0] /Users/alokshah/.gradle/caches/transforms-1/files-1.1/volley-1.0.0.aar/bb584ab22be3eb0e72410de20aa89cc0/AndroidManifest.xml:7:5-43
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/alokshah/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/d17c00cc35b78bf317ed6734e49af8b0/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/alokshah/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/d17c00cc35b78bf317ed6734e49af8b0/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/alokshah/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/159b8c8a288b6f1812613989cea72659/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/alokshah/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/159b8c8a288b6f1812613989cea72659/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/alokshah/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/0ac98183bb5c288f62d0423a9091b4b8/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/alokshah/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/0ac98183bb5c288f62d0423a9091b4b8/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/alokshah/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/5f97c90eb8cab521183953110ddccac8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/alokshah/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/5f97c90eb8cab521183953110ddccac8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/alokshah/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/3fdc5a2217e9380312379e627c3355b8/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/alokshah/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/3fdc5a2217e9380312379e627c3355b8/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/alokshah/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/54bbf4e249b23046ea0a59379a2f81a4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/alokshah/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/54bbf4e249b23046ea0a59379a2f81a4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:26.1.0] /Users/alokshah/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/6f34ec4dfb62d5497d0a967ece4db05a/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] /Users/alokshah/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/6f34ec4dfb62d5497d0a967ece4db05a/AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/alokshah/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/276e00e6df6900026868343a9df6aac3/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/alokshah/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/276e00e6df6900026868343a9df6aac3/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/alokshah/AndroidStudioProjects/HeartRateMonitorPilot/Application/src/main/AndroidManifest.xml
+INJECTED from /Users/alokshah/AndroidStudioProjects/HeartRateMonitorPilot/Application/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v13:26.1.0] /Users/alokshah/.gradle/caches/transforms-1/files-1.1/support-v13-26.1.0.aar/1d0f46cb6e2f7ac1f8a40e5406eeafe0/AndroidManifest.xml:23:9-52
+	android:targetSdkVersion
+		INJECTED from /Users/alokshah/AndroidStudioProjects/HeartRateMonitorPilot/Application/src/main/AndroidManifest.xml
+		ADDED from /Users/alokshah/AndroidStudioProjects/HeartRateMonitorPilot/Application/src/main/AndroidManifest.xml
+		INJECTED from /Users/alokshah/AndroidStudioProjects/HeartRateMonitorPilot/Application/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/alokshah/AndroidStudioProjects/HeartRateMonitorPilot/Application/src/main/AndroidManifest.xml
+		ADDED from /Users/alokshah/AndroidStudioProjects/HeartRateMonitorPilot/Application/src/main/AndroidManifest.xml
+		INJECTED from /Users/alokshah/AndroidStudioProjects/HeartRateMonitorPilot/Application/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:support-v13:26.1.0] /Users/alokshah/.gradle/caches/transforms-1/files-1.1/support-v13-26.1.0.aar/1d0f46cb6e2f7ac1f8a40e5406eeafe0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/alokshah/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/f3a5ff5d87fba61f0054cca22580afad/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/alokshah/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/f3a5ff5d87fba61f0054cca22580afad/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] /Users/alokshah/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/b9e6811ade3be3ca52da5500a31c1a80/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] /Users/alokshah/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/b9e6811ade3be3ca52da5500a31c1a80/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:cardview-v7:26.1.0] /Users/alokshah/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.1.0.aar/546c2a5a578fc541f9f85e16c8a5d658/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:cardview-v7:26.1.0] /Users/alokshah/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.1.0.aar/546c2a5a578fc541f9f85e16c8a5d658/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/alokshah/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/d17c00cc35b78bf317ed6734e49af8b0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/alokshah/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/d17c00cc35b78bf317ed6734e49af8b0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/alokshah/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/159b8c8a288b6f1812613989cea72659/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/alokshah/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/159b8c8a288b6f1812613989cea72659/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/alokshah/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/0ac98183bb5c288f62d0423a9091b4b8/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/alokshah/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/0ac98183bb5c288f62d0423a9091b4b8/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/alokshah/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/5f97c90eb8cab521183953110ddccac8/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/alokshah/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/5f97c90eb8cab521183953110ddccac8/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/alokshah/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/3fdc5a2217e9380312379e627c3355b8/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/alokshah/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/3fdc5a2217e9380312379e627c3355b8/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/alokshah/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/54bbf4e249b23046ea0a59379a2f81a4/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/alokshah/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/54bbf4e249b23046ea0a59379a2f81a4/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-compat:26.1.0] /Users/alokshah/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/6f34ec4dfb62d5497d0a967ece4db05a/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /Users/alokshah/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/6f34ec4dfb62d5497d0a967ece4db05a/AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:support-v13:26.1.0] /Users/alokshah/.gradle/caches/transforms-1/files-1.1/support-v13-26.1.0.aar/1d0f46cb6e2f7ac1f8a40e5406eeafe0/AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:support-v13:26.1.0] /Users/alokshah/.gradle/caches/transforms-1/files-1.1/support-v13-26.1.0.aar/1d0f46cb6e2f7ac1f8a40e5406eeafe0/AndroidManifest.xml:27:13-51
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/alokshah/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/276e00e6df6900026868343a9df6aac3/AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/alokshah/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/276e00e6df6900026868343a9df6aac3/AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/alokshah/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/276e00e6df6900026868343a9df6aac3/AndroidManifest.xml:26:13-58

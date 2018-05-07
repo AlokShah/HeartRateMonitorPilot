@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="horizontal"
+    android:padding="10sp">
+
+<EditText
+    android:id="@+id/aerobic_val"
+    android:layout_width="200dp"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="40dp"
+    android:layout_centerHorizontal="true"
+    android:inputType="numberDecimal"
+    android:maxLines="1"
+    android:hint="@string/aerobic"/>
+
+    <EditText
+        android:id="@+id/anaerobic_val"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/aerobic_val"
+        android:layout_marginTop="40dp"
+        android:inputType="numberDecimal"
+        android:maxLines="1"
+        android:layout_centerHorizontal="true"
+        android:hint="@string/anaerobic"/>
+
+
+    <EditText
+        android:id="@+id/distance"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/anaerobic_val"
+        android:layout_marginTop="40dp"
+        android:inputType="numberDecimal"
+        android:maxLines="1"
+        android:layout_centerHorizontal="true"
+        android:hint="@string/distance"/>
+
+    <Button
+        android:id="@+id/submit_program"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/distance"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="150dp"
+        android:background="@drawable/submit"
+        android:text="@string/submit_program"
+        />
+
+</RelativeLayout>

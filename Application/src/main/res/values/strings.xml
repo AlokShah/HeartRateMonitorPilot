@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<resources>
+    <string name="ble_not_supported">BLE is not supported</string>
+    <string name="label_data">Heart Rate</string>
+    <string name="label_device_address">Device address</string>
+    <string name="label_state">State:</string>
+    <string name="aerobic">Aerobic value</string>
+    <string name="anaerobic">Anaerobic value</string>
+    <string name="distance">Distance (yards)</string>
+    <string name = "fname">First Name</string>
+    <string name="lname">Last Name</string>
+    <string name="id">Enter ID</string>
+    <string name="player_heightfeet">Height (ft)</string>
+    <string name="player_heightinches">Height (ins)</string>
+    <string name="player_weight">Weight (lbs)</string>
+    <string name="player_age">Age</string>
+    <string name="new_user">New User?</string>
+    <string name="submit_program">Submit</string>
+    <string name="Continue">Continue As</string>
+    <string name="no_data">Calculating Heart Rate</string>
+    <string name="connected">Connected</string>
+    <string name="disconnected">Disconnected</string>
+    <string name="title_devices">Heart Monitor</string>
+    <string name="error_bluetooth_not_supported">Bluetooth not supported.</string>
+    <string name="pre1">Ready to go</string>
+    <string name="pre2">Not sure</string>
+    <string name="pre3">Not feeling 100%</string>
+
+    <string name="post1">Too hard</string>
+    <string name="post2">Challenging but good</string>
+    <string name="post3">Too easy</string>
+
+    <string name="m1">It hurts now but someday it will be your warmup</string>
+    <string name="m2">You dont get what you wish for, you get what you work for</string>
+    <string name="m3">Play like you are in first, train like you are in second</string>
+    <string name="m4">When your legs cant run anymore, run with your heart</string>
+    <string name="m5">If you train hard, you will be hard to beat</string>
+    <string name="m6">It is hard to beat a person who never gives up</string>
+    <string name="m7">The only place success comes before work is in the dictionary</string>
+    <string name="m8">It never gets easier, you just get better</string>
+    <string name="m9">Dont stop when you are tired, stop when you are done</string>
+
+    <string name="postTitle">How was the workout ?</string>
+    <string name="preTitle">How do you feel ?</string>
+
+    <string name="unknown_device">Unknown device</string>
+    <string name="unknown_characteristic">Unknown characteristic</string>
+    <string name="unknown_service">Unknown service</string>
+
+    <!-- Menu items -->
+    <string name="menu_connect">Connect</string>
+    <string name="menu_disconnect">Disconnect</string>
+    <string name="menu_scan">Scan</string>
+    <string name="menu_stop">Stop</string>
+    <string name="menu_refresh">Refresh</string>
+    <string name="title_activity_training_program">Training Program</string>
+    <string name="title_activity_login">Login Activity</string>
+    <string name="title_activity_registration">Registration</string>
+
+    <string-array name="sport_array">
+        <item>Football</item>
+        <item>Volleyball</item>
+        <item>Throwball</item>
+        <item>Soccer</item>
+        <item>Other</item>
+    </string-array>
+
+    <string-array name ="gender_array">
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
+
+</resources>

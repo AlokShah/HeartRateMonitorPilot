@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/alokshah/.android/build-cache/fcd3118b862d09ff1e6525976e5b78449fcab717/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6f4138a4e065826cb044d49faea4cfd7191773d1">
+        <dex dex="/Users/alokshah/Downloads/android-BluetoothLeGatt-master/Application/build/intermediates/pre-dexed/debug/classes_050f731e952969680b2e8832a3e51ae55c70eec4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/alokshah/.android/build-cache/c842f3c0f9db5f920b11179d52bd67a765ab1e40/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f97cf85b0fe70d37a705111dafa6b1b418ea1650">
+        <dex dex="/Users/alokshah/Downloads/android-BluetoothLeGatt-master/Application/build/intermediates/pre-dexed/debug/classes_9a92e3f31f83330ad04def12265f2599e701d96c.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alokshah/Downloads/android-BluetoothLeGatt-master/Application/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="71e19785c4cb2b6997693bcd66728b7947f13f41">
+        <dex dex="/Users/alokshah/Downloads/android-BluetoothLeGatt-master/Application/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_2154d39cf93327c0a1f5915e3c560053f415c5f4/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/alokshah/.android/build-cache/face911d26392be9c83d88c10216eaf44f0e2811/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2442771a5590dd4eb4bce00c2e9dca9e22e4c963">
+        <dex dex="/Users/alokshah/Downloads/android-BluetoothLeGatt-master/Application/build/intermediates/pre-dexed/debug/classes_4ba26a935268a17ff280b78d347e69a1aa8e9429.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/alokshah/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/26.1.0/814258103cf26a15fcc26ecce35f5b7d24b73f8/support-annotations-26.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="0814258103cf26a15fcc26ecce35f5b7d24b73f8">
+        <dex dex="/Users/alokshah/Downloads/android-BluetoothLeGatt-master/Application/build/intermediates/pre-dexed/debug/support-annotations-26.1.0_bcc00f9151879a5ca16ca012e7c8315b065f705e.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alokshah/AndroidStudioProjects/HeartRateMonitorPilot/Application/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3c39991f4913c7d007df7ae574cf4329a186ffd9">
+        <dex dex="/Users/alokshah/AndroidStudioProjects/HeartRateMonitorPilot/Application/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_04264e57cec62857a91f46ba68763f27bba89c2a/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/alokshah/.android/build-cache/6cb1140aebb5b0bcb23427dd9d012e76e6d5c79d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f428e2fbc9ed0b297e3a3f420e51e6982f66822d">
+        <dex dex="/Users/alokshah/Downloads/android-BluetoothLeGatt-master/Application/build/intermediates/pre-dexed/debug/classes_3802d5bf9dff8b1c53bcba49eb086f63c15e92d5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/alokshah/.android/build-cache/26ff853793e9d2aeffeb507ea94cccd5fcb5c615/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/alokshah/Downloads/android-BluetoothLeGatt-master/Application/build/intermediates/pre-dexed/debug/classes_be2b12c48f9b7a36a8329493a1bf2fee30cf4311.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/alokshah/.android/build-cache/b1aecfd12f50e1d5b7e7dc5cc74fba8b66085645/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b4d6fbbb48b42dd03fd9c5a09b3b7a53266df6ed">
+        <dex dex="/Users/alokshah/Downloads/android-BluetoothLeGatt-master/Application/build/intermediates/pre-dexed/debug/classes_42ff5608e2d528aac8cc4537c472758df49058ed.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/alokshah/.android/build-cache/65e18ac360aef414386146c7a123b833449f3162/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="7efef32744ca4a436492d5cf28c08698cc2af256">
+        <dex dex="/Users/alokshah/Downloads/android-BluetoothLeGatt-master/Application/build/intermediates/pre-dexed/debug/classes_8a420b2a5bf6642b04301469aa9ecfb024c8ecd2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/alokshah/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/alokshah/AndroidStudioProjects/HeartRateMonitorPilot/Application/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.2_138f120d067bb7dc31ef02dce1be95b8fd0d5596.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/alokshah/.gradle/caches/modules-2/files-2.1/android.arch.lifecycle/common/1.0.0/e414a4cb28434e25c4f6aa71426eb20cf4874ae9/common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e414a4cb28434e25c4f6aa71426eb20cf4874ae9">
+        <dex dex="/Users/alokshah/Downloads/android-BluetoothLeGatt-master/Application/build/intermediates/pre-dexed/debug/common-1.0.0_c3fb6247d81e96d27837fe04be93bec7c1d651ec.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alokshah/Downloads/android-BluetoothLeGatt-master/Application/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/alokshah/Downloads/android-BluetoothLeGatt-master/Application/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_f405bfe6d86c615b58a262e37a476941eb03a1b7/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/alokshah/.android/build-cache/f461052db0e163595592a038324019f882fd5cf1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="508f50705b4fde51a16259f29c854201a3044516">
+        <dex dex="/Users/alokshah/Downloads/android-BluetoothLeGatt-master/Application/build/intermediates/pre-dexed/debug/classes_a71cb8edc49ad68e20e0cbc80930dc6d5d4aa56b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/alokshah/.gradle/caches/modules-2/files-2.1/com.loopj.android/android-async-http/1.4.9/386a4339ffe52d5d63e80f9bed8d2b1d1a418249/android-async-http-1.4.9.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="386a4339ffe52d5d63e80f9bed8d2b1d1a418249">
+        <dex dex="/Users/alokshah/AndroidStudioProjects/HeartRateMonitorPilot/Application/build/intermediates/pre-dexed/debug/android-async-http-1.4.9_84d06e84db1e9e495a2c9a84037237dfeb8d6823.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/alokshah/.android/build-cache/4b90dd8e7e63d388da6fdd22c1d345cd74df2c4c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/alokshah/AndroidStudioProjects/HeartRateMonitorPilot/Application/build/intermediates/pre-dexed/debug/classes_b18ca82da9fba618fe5aed9a609436ce104bcd19.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/alokshah/.android/build-cache/ac682676898e82a3f7c3ae4612b9abcd518749e8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="233f60a165ae622c8b36731502ebbda0f65e1930">
+        <dex dex="/Users/alokshah/Downloads/android-BluetoothLeGatt-master/Application/build/intermediates/pre-dexed/debug/classes_f5b403586fb59d3358058e20ee154a2da03118a9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/alokshah/.gradle/caches/modules-2/files-2.1/android.arch.core/common/1.0.0/a2d487452376193fc8c103dd2b9bd5f2b1b44563/common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a2d487452376193fc8c103dd2b9bd5f2b1b44563">
+        <dex dex="/Users/alokshah/Downloads/android-BluetoothLeGatt-master/Application/build/intermediates/pre-dexed/debug/common-1.0.0_9565f8c2c8328cc2dd04e042270e4c9c92246066.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/alokshah/.android/build-cache/1a2df102fbdc0be5cbdb8ee063edaeca2f5bf24e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b62fdc4cfef174c1e456014195c83fa7de7dc041">
+        <dex dex="/Users/alokshah/Downloads/android-BluetoothLeGatt-master/Application/build/intermediates/pre-dexed/debug/classes_4e0f84b029cd6996169073f3b339cb29c747cf9c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/alokshah/.android/build-cache/ebd18cb9278312c1c3365522eb10b0bfb7369d4a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2cd4b982617e544728de0782d718a58ce1b06e3f">
+        <dex dex="/Users/alokshah/AndroidStudioProjects/HeartRateMonitorPilot/Application/build/intermediates/pre-dexed/debug/classes_83525030d7ec62d65795c412ce0603ee39b9a574.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alokshah/AndroidStudioProjects/HeartRateMonitorPilot/Application/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/alokshah/AndroidStudioProjects/HeartRateMonitorPilot/Application/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_336bd77012164d5799dbaa7c3933a802f735c6bc/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/alokshah/.gradle/caches/modules-2/files-2.1/cz.msebera.android/httpclient/4.3.6/526a9f794eab830eae4f23a62c572878b3f491ab/httpclient-4.3.6.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="526a9f794eab830eae4f23a62c572878b3f491ab">
+        <dex dex="/Users/alokshah/AndroidStudioProjects/HeartRateMonitorPilot/Application/build/intermediates/pre-dexed/debug/httpclient-4.3.6_b111bf8c2cb2712219711c0f98ef501dbf03ed65.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/alokshah/.android/build-cache/3a21a4eee99e0e412ae2396ac6cc3b633552aa28/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="40392f30a601db5675cdf18192aab013d6fee6ec">
+        <dex dex="/Users/alokshah/Downloads/android-BluetoothLeGatt-master/Application/build/intermediates/pre-dexed/debug/classes_65d2b1ebbfa58515f6ff36a615f67e67ba0b601e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/alokshah/.android/build-cache/b3435a90e463a32b8e2cb6c55778620b64d0c619/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="80d9ff49e99ff481062ea190b43e8d6bdffd4ddc">
+        <dex dex="/Users/alokshah/Downloads/android-BluetoothLeGatt-master/Application/build/intermediates/pre-dexed/debug/classes_502c9431320180e5643a37994fd503cf879d641f.jar" />
+    </item>
+
+</items>
